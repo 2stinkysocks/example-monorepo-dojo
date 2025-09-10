@@ -1,6 +1,6 @@
 dojos:
   - id: intro-to-cybersecurity
-    name: Intro to Cybersecurity
+    name: Intro to Cybersecurity AAA
 
     award:
       belt: orange
@@ -130,7 +130,7 @@ dojos:
 
     - id: integrated-security
   - id: program-security
-    name: Program Security
+    name: Program Security BBB
     image: pwncollege/challenge-legacy:latest
 
     award:
