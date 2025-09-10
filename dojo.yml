@@ -1,6 +1,6 @@
 dojos:
   - id: intro-to-cybersecurity
-    name: Intro to Cybersecurity AAA
+    name: Intro to Cybersecurity
 
     award:
       belt: orange
