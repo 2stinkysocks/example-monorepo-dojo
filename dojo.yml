@@ -147,7 +147,7 @@ dojos:
 
     modules:
     - id: program-security
-    - id: reverse-engineering
+    - id: reverse-engineering-2
     - id: return-oriented-programming
     - id: dynamic-allocator-misuse
     - id: program-exploitation
